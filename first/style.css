@@ -200,7 +200,7 @@ ol {
     font-size: 24px;
     right: 30px;
     width: 50px;
-    background-color: #fb397d;
+    background-color: rgb(245 161 42);
     color: #fff;
     text-align: center;
     height: 50px;
@@ -247,7 +247,7 @@ p {
 .line-shape {
     width: 80px;
     height: 2px;
-    background-color: #fb397d;
+    background-color: rgb(245 161 42);
     margin-top: 15px;
 }
 
@@ -285,7 +285,7 @@ p {
     -webkit-animation: 2000ms linear 0s normal none infinite running colorlib-load;
     animation: 2000ms linear 0s normal none infinite running colorlib-load;
     background: transparent none repeat scroll 0 0;
-    border-color: #dddddd #dddddd #fb397d;
+    border-color: #dddddd #dddddd rgb(245 161 42);
     border-radius: 50%;
     border-style: solid;
     border-width: 2px;
@@ -365,7 +365,7 @@ p {
 }
 
 .menu_area nav ul li>a:hover {
-    color: #fb397d;
+    color: rgb(245 161 42);
 }
 
 .sing-up-button {
@@ -397,7 +397,7 @@ p {
 /* stcicky css */
 
 .header_area.sticky {
-    background-color: #884bdf;
+    background-color: rgba(0, 0, 0, 0.5);
     -webkit-box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     height: 70px;
@@ -548,7 +548,7 @@ p {
 
 .single-icon>i {
     font-size: 36px;
-    color: #fb397d;
+    color: rgb(245 161 42);
 }
 
 .single-special>h4 {
@@ -623,7 +623,7 @@ p {
 .app-download-btn.active a,
 .app-download-btn a:hover {
     border-color: transparent;
-    background-color: #fb397d;
+    background-color: rgb(245 161 42);
 }
 
 .app-download-btn a i {
@@ -673,7 +673,7 @@ p {
 }
 
 .single-feature>i {
-    color: #fb397d;
+    color: rgb(245 161 42);
     font-size: 30px;
     display: inline-block;
     float: left;
@@ -721,7 +721,7 @@ p {
 .video-area .video-play-btn a {
     width: 80px;
     height: 80px;
-    background-color: #fb397d;
+    background-color: rgb(245 161 42);
     color: #fff;
     text-align: center;
     display: block;
@@ -739,7 +739,7 @@ p {
 }
 
 .video-area .video-play-btn a:hover {
-    background-color: #a865e1;
+    background-color: #e4760f;
     color: #fff;
 }
 
@@ -832,7 +832,7 @@ p {
 }
 
 .app-screenshots-area .owl-dot.active {
-    background-color: #fb397d;
+    background-color: rgb(245 161 42);
     border: transparent;
 }
 
@@ -854,7 +854,7 @@ p {
 .single-price-plan {
     background: #ffffff;
     border: 1px solid #ebebeb;
-    border-radius: 30px 30px 30px 0;
+    border-radius: 30px;
     margin-bottom: 30px;
 }
 
@@ -869,7 +869,7 @@ p {
 }
 
 .single-price-plan .package-plan .ca-price h4 {
-    color: #fb397d;
+    color: rgb(245 161 42);
     font-size: 48px;
     position: relative;
     z-index: 1;
@@ -879,13 +879,13 @@ p {
 
 .single-price-plan .package-plan .ca-price span {
     font-size: 18px;
-    color: #fb397d;
+    color: rgb(245 161 42);
 }
 
 .single-price-plan .plan-button>a {
-    background: #726a84;
+    background: rgb(245 161 42);
     padding: 10px 0;
-    border-bottom-right-radius: 30px;
+    border-radius: 30px;
     color: #ffffff;
     font-size: 16px;
     font-weight: 500;
@@ -976,8 +976,8 @@ p {
 }
 
 .clients-feedback-area .slick-dots li.slick-active button {
-    background-color: #fb397d;
-    border-color: #fb397d;
+    background-color: rgb(245 161 42);
+    border-color: rgb(245 161 42);
 }
 
 .clients-feedback-area .slick-slide.client-thumbnail {
@@ -1063,7 +1063,7 @@ p {
     display: inline-block;
     text-align: center;
     line-height: 45px;
-    color: #fb397d;
+    color: rgb(245 161 42);
     font-weight: 500;
     border-radius: 23px 23px 23px 0;
 }
@@ -1208,7 +1208,7 @@ p {
 }
 
 .btn.submit-btn {
-    background: #fb397d;
+    background: rgb(245 161 42);
     height: 48px;
     min-width: 185px;
     color: #ffffff;
@@ -1256,7 +1256,7 @@ p {
 }
 
 .footer-social-icon>a>i:hover {
-    background: #fb397d;
+    background: rgb(245 161 42);
     color: #fff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
@@ -1283,7 +1283,7 @@ p {
 }
 
 .footer-social-icon>a .active {
-    background: #fb397d;
+    background: rgb(245 161 42);
 }
 
 .footer-menu ul li:last-child a {
