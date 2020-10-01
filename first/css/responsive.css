@@ -5,7 +5,7 @@
     .menu_area #nav .nav-link {
         padding: 35px 7.5px;
     }
-    .sing-up-button > a {
+    .sing-up-button>a {
         color: #fff;
         height: 40px;
         min-width: 152px;
@@ -45,7 +45,7 @@
     #ca-navbar {
         padding: 30px;
         border-radius: 3px;
-        background-color: #5b32b4;
+        background-color: rgba(0, 0, 0, 0.5);
         text-align: left;
     }
     .sing-up-button {
@@ -66,27 +66,27 @@
     .special_description_area.mt-150 {
         margin-top: 50px;
     }
-    .special_description_content > h2 {
+    .special_description_content>h2 {
         font-size: 30px;
     }
     .video-area {
         height: 350px;
     }
-    .section-heading > h2 {
+    .section-heading>h2 {
         font-size: 38px;
     }
-    .address-text > p,
-    .phone-text > p,
-    .email-text > p {
+    .address-text>p,
+    .phone-text>p,
+    .email-text>p {
         font-size: 16px;
     }
-    .footer-text > p {
+    .footer-text>p {
         margin-bottom: 30px;
     }
     .section-heading {
         margin-bottom: 50px;
     }
-    .sing-up-button > a {
+    .sing-up-button>a {
         margin-top: 4px;
         display: inline-block;
         border: 2px solid #a883e9;
@@ -98,7 +98,7 @@
     .counter-area {
         min-width: 50px;
     }
-    .counter-area > h3 {
+    .counter-area>h3 {
         font-size: 30px;
     }
     .app_screenshots_slides {
@@ -127,7 +127,7 @@
     #ca-navbar {
         padding: 20px;
         border-radius: 3px;
-        background-color: #5b32b4;
+        background-color: rgba(0, 0, 0, 0.5);
         text-align: left;
     }
     .sing-up-button {
@@ -137,10 +137,10 @@
     .header_area {
         top: 0;
     }
-    .welcome_text .cd-intro > p {
+    .welcome_text .cd-intro>p {
         font-size: 14px;
     }
-    .wellcome-heading > h2 {
+    .wellcome-heading>h2 {
         font-size: 48px;
     }
     .get-start-area .email {
@@ -152,11 +152,11 @@
         bottom: -74px;
         right: 0;
     }
-    .logo_area > a > h2 {
+    .logo_area>a>h2 {
         font-size: 40px;
         margin-top: 10px;
     }
-    .section-heading > h2 {
+    .section-heading>h2 {
         font-size: 32px;
     }
     .single-special {
@@ -165,7 +165,7 @@
     .special_description_area.mt-150 {
         margin-top: 50px;
     }
-    .special_description_content > h2 {
+    .special_description_content>h2 {
         font-size: 30px;
     }
     .app-download-btn:first-child {
@@ -191,7 +191,7 @@
         z-index: 2;
         border-radius: 20px;
     }
-    .clients-feedback-area .client-description > p {
+    .clients-feedback-area .client-description>p {
         font-size: 20px;
     }
     .clients-feedback-area .slick-slide img {
@@ -202,7 +202,7 @@
         width: 70px !important;
         height: 70px !important;
     }
-    .membership-description > h2 {
+    .membership-description>h2 {
         font-size: 32px;
     }
     .get-started-button {
@@ -212,7 +212,7 @@
     .contact_from {
         margin-top: 30px;
     }
-    .wellcome-heading > h3 {
+    .wellcome-heading>h3 {
         font-size: 252px;
         top: -105px;
         left: -1px;
@@ -227,10 +227,10 @@
 }
 
 @media (min-width: 480px) and (max-width: 767px) {
-    .wellcome-heading > h3 {
+    .wellcome-heading>h3 {
         font-size: 284px;
     }
-    .wellcome-heading > h2 {
+    .wellcome-heading>h2 {
         font-size: 70px;
     }
     .welcome-thumb {
@@ -240,7 +240,7 @@
     .wellcome-heading {
         margin-bottom: 50px;
     }
-    .wellcome-heading > h3 {
+    .wellcome-heading>h3 {
         top: -139px;
     }
     .get-start-area .email {
@@ -249,7 +249,7 @@
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
-    .wellcome-heading > h3 {
+    .wellcome-heading>h3 {
         font-size: 286px;
     }
     .get-start-area .email {
