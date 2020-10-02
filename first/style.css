@@ -200,7 +200,7 @@ ol {
     font-size: 24px;
     right: 30px;
     width: 50px;
-    background-color: rgb(245 161 42);
+    background-color: #2c3f9c;
     color: #fff;
     text-align: center;
     height: 50px;
@@ -500,7 +500,7 @@ p {
 }
 
 .get-start-area .submit {
-    background-color: rgb(245 161 42);
+    background-color: #2c3f9c;
     color: #fff;
     font-weight: 500;
     display: inline-block;
@@ -514,7 +514,7 @@ p {
 }
 
 .get-start-area .submit:hover {
-    background: rgb(44, 63, 156);
+    background: #0029f8;
     color: #fff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
@@ -548,7 +548,7 @@ p {
 
 .single-icon>i {
     font-size: 36px;
-    color: rgb(245 161 42);
+    color: #2c3f9c;
 }
 
 .single-special>h4 {
@@ -623,7 +623,7 @@ p {
 .app-download-btn.active a,
 .app-download-btn a:hover {
     border-color: transparent;
-    background-color: rgb(245 161 42);
+    background-color: #0029f8;
 }
 
 .app-download-btn a i {
@@ -673,7 +673,7 @@ p {
 }
 
 .single-feature>i {
-    color: rgb(245 161 42);
+    color: #2c3f9c;
     font-size: 30px;
     display: inline-block;
     float: left;
@@ -721,7 +721,7 @@ p {
 .video-area .video-play-btn a {
     width: 80px;
     height: 80px;
-    background-color: rgb(245 161 42);
+    background-color: #2c3f9c;
     color: #fff;
     text-align: center;
     display: block;
@@ -739,7 +739,7 @@ p {
 }
 
 .video-area .video-play-btn a:hover {
-    background-color: rgb(44, 63, 156);
+    background-color: #0029f8;
     color: #fff;
 }
 
@@ -752,11 +752,11 @@ p {
     position: relative;
     z-index: auto;
     background: #a865e1;
-    background: -webkit-linear-gradient(to left, rgb(245 161 42), #2c3f9c);
-    background: -webkit-linear-gradient(right, rgb(245 161 42), #2c3f9c);
-    background: -webkit-gradient(linear, right top, left top, from(rgb(245 161 42)), to( #2c3f9c));
-    background: -o-linear-gradient(right, rgb(245 161 42), #2c3f9c);
-    background: linear-gradient(to left, rgb(245 161 42), #2c3f9c);
+    background: -webkit-linear-gradient(to left, #0029f8, #2c3f9c);
+    background: -webkit-linear-gradient(right, #7339be, #2c3f9c);
+    background: -webkit-gradient(linear, right top, left top, from #7339be, to( #2c3f9c));
+    background: -o-linear-gradient(right, #7339be, #2c3f9c);
+    background: linear-gradient(to left, #7339be, #2c3f9c);
     padding: 180px 0 80px 0;
     top: -100px;
 }
@@ -832,7 +832,7 @@ p {
 }
 
 .app-screenshots-area .owl-dot.active {
-    background-color: rgb(245 161 42);
+    background-color: #2c3f9c;
     border: transparent;
 }
 
@@ -869,7 +869,7 @@ p {
 }
 
 .single-price-plan .package-plan .ca-price h4 {
-    color: rgb(245 161 42);
+    color: #2c3f9c;
     font-size: 48px;
     position: relative;
     z-index: 1;
@@ -879,11 +879,11 @@ p {
 
 .single-price-plan .package-plan .ca-price span {
     font-size: 18px;
-    color: rgb(245 161 42);
+    color: #2c3f9c;
 }
 
 .single-price-plan .plan-button>a {
-    background: rgb(245 161 42);
+    background: #2c3f9c;
     padding: 10px 0;
     border-radius: 30px;
     color: #ffffff;
@@ -907,7 +907,7 @@ p {
 }
 
 .single-price-plan:hover .plan-button>a {
-    background-color: #2c3f9c;
+    background-color: #0029f8;
 }
 
 
@@ -1207,7 +1207,7 @@ p {
 }
 
 .btn.submit-btn {
-    background: rgb(245 161 42);
+    background: #2c3f9c;
     height: 48px;
     min-width: 185px;
     color: #ffffff;
@@ -1216,7 +1216,7 @@ p {
 }
 
 .btn.submit-btn:hover {
-    background: #2c3f9c;
+    background: #0029f8;
     color: #fff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
