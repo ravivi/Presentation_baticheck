@@ -285,7 +285,7 @@ p {
     -webkit-animation: 2000ms linear 0s normal none infinite running colorlib-load;
     animation: 2000ms linear 0s normal none infinite running colorlib-load;
     background: transparent none repeat scroll 0 0;
-    border-color: #dddddd #dddddd rgb(245 161 42);
+    border-color: #dddddd #dddddd #2c3f9c;
     border-radius: 50%;
     border-style: solid;
     border-width: 2px;
@@ -365,7 +365,7 @@ p {
 }
 
 .menu_area nav ul li>a:hover {
-    color: rgb(245 161 42);
+    color: #2c3f9c;
 }
 
 .sing-up-button {
@@ -975,8 +975,8 @@ p {
 }
 
 .clients-feedback-area .slick-dots li.slick-active button {
-    background-color: rgb(245 161 42);
-    border-color: rgb(245 161 42);
+    background-color: #2c3f9c;
+    border-color: #2c3f9c;
 }
 
 .clients-feedback-area .slick-slide.client-thumbnail {
@@ -1062,7 +1062,7 @@ p {
     display: inline-block;
     text-align: center;
     line-height: 45px;
-    color: rgb(245 161 42);
+    color: #2c3f9c;
     font-weight: 500;
     border-radius: 23px 23px 23px 0;
 }
@@ -1255,7 +1255,7 @@ p {
 }
 
 .footer-social-icon>a>i:hover {
-    background: rgb(245 161 42);
+    background: #0029f8;
     color: #fff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
@@ -1282,7 +1282,7 @@ p {
 }
 
 .footer-social-icon>a .active {
-    background: rgb(245 161 42);
+    background: #0029f8;
 }
 
 .footer-menu ul li:last-child a {
