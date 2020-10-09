@@ -1202,6 +1202,18 @@ p {
     border-radius: 25px;
 }
 
+#mdp1 {
+    font-size: 18px;
+    padding: 15px 15px;
+    border-radius: 25px;
+}
+
+#mdp2 {
+    font-size: 18px;
+    padding: 15px 15px;
+    border-radius: 25px;
+}
+
 #message {
     border-radius: 25px;
 }
@@ -1225,6 +1237,7 @@ p {
 
 .footer-contact-area {
     background: #f5f9fc;
+    height: 100vh;
 }
 
 .footer-text>p {
